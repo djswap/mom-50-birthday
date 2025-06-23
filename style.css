@@ -83,4 +83,25 @@ body {
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.2);
   }
+  #login-screen {
+    background-image: url("mom-icon.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white; /* text color */
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7); /* for readability */
+  }
+  #login-screen input,
+  #login-screen button {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+    border-radius: 6px;
+    border: none;
+  }      
       
