@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background: #fff8e1;
+    color: #4e3413;
+    text-align: center;
+  }
+  
+  #login-screen {
+    margin-top: 120px;
+  }
+  
+  input[type="password"], button {
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  #error-msg {
+    color: red;
+  }
+  
+  .story {
+    padding: 40px 20px;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  
+  .story img {
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    margin-bottom: 20px;
+  }
+  
+  .story p {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  .thank-you {
+    background-color: #fff3cd;
+    margin-top: 60px;
+    padding: 30px 20px;
+    border-radius: 12px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
+  
+  .thank-you h2 {
+    color: #b35f00;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .thank-you p {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  .site-header {
+    background: #ffe082;
+    padding: 20px;
+    border-bottom: 3px solid #ffca28;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+  
+  .site-header h1 {
+    margin: 0;
+    font-size: 32px;
+    color: #8d4b00;
+    font-family: 'Playfair Display', serif;
+  }
+  .intro-video {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 0 20px;
+  }
+  
+  .intro-video video {
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  }
+      
